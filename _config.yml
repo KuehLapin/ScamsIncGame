@@ -1,35 +1,3 @@
 title: Scams Inc Game
 description: Description
 url: https://www.kuehlapin.github.io
-remote_theme: benbalter/jekyll-remote-theme
-paginate: 12
-custom_css_path: /misc/custom.css
-custom_print_css_path: /assets/css/print.css
-favicon: /Game Images/Bait Logo.jpg
-permalink: none
-baseurl: ""
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: page
-plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-remote-theme
-colors:
-  primary-color: "#653d7a"
-  secondary-color: "#a23f7e"
-  media-colors:
-    - title: media-color-one
-      color: "#49759a"
-    - title: media-color-two
-      color: "#744d9f"
-    - title: media-color-three
-      color: "#00838f"
-    - title: media-color-four
-      color: "#00838f"
-    - title: media-color-five
-      color: "#00838f"
