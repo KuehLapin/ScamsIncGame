@@ -29,6 +29,6 @@ div {
 }
 
 <center>
-<img src="ScamsIncGame/Game Images/Bait Logo.jpg">
+<img src="kuehlapin.github.io/Game Images/Bait Logo.jpg">
 <h1 style= #ffffff>Scams Inc</h1>
 <h2 style= #ffffff><a href="/Game Routes/Tutorial"Start Game</a></h2>
