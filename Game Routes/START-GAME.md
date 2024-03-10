@@ -1,3 +1,7 @@
+layout: page
+title: "START GAME"
+permalink: /start
+
 .topnav {
   overflow: hidden;
   background-color: #000000;
