@@ -1,32 +1,6 @@
 layout: page
 title: "START GAME"
-permalink: /start
-
-.topnav {
-  overflow: hidden;
-  background-color: #000000;
-}
-
-.topnav a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 15px 15px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: #ff0000;
-}
-
-div {
-  background-color: #000000
-  width: 300px;
-  border: 15px #000000;
-  padding: 50px;
-  margin: 20px;
-}
+permalink: kuehlapin.github.io/start
 
 <center>
 <img src="kuehlapin.github.io/Game Images/Bait Logo.jpg">
